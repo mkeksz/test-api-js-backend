@@ -1,0 +1,8 @@
+node_modules
+test_task_api.log
+uploads
+.dockerignore
+Dockerfile
+.gitignore
+.idea
+.env
